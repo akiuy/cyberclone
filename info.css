@@ -120,11 +120,11 @@ header > img {
     padding-left: 20px;
 }
 
-.play-btn {
+.info-btn {
     border-right: 3px solid rgb(96, 128, 255);
 }
 
-.user-btn:hover, .info-btn:hover {
+.user-btn:hover, .play-btn:hover {
     transition: 0.1s;
     border-right: 3px solid rgb(124, 149, 248);
 }
